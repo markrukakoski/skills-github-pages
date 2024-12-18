@@ -1,7 +1,6 @@
 ---
 title: "React Feedback App"
 date: 2024-12-18
-permalink: /feeback-app/
 ---
 
 This is a demonstration of a web-based feedback app.

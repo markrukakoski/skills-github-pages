@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Current and Past Projects
 ---
 
